@@ -1,5 +1,5 @@
 - I'm Hari
-- Interested in back-end development
+- Interested in full-stack development
 - Currently learning C++, Node.js, Go, PostgreSQL
 - Skilled in Python, SQl, Javascript
 - Tools: VS Code, Snowflake, AWS
